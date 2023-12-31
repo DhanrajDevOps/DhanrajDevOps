@@ -8,10 +8,8 @@
 
 🐳 Docker: Containers are the future of software deployment, and Docker is my tool of choice. I've honed my skills in creating lightweight, portable, and isolated containers that make it easy to develop, ship, and run applications anywhere.
 
-🛠️ Tech Stack: My toolbox includes a range of technologies like Terraform, Ansible, Helm, and more to automate infrastructure, configuration management, and deployment processes.
-
 📚 Always Learning: The world of cloud and DevOps is ever-evolving, and I'm committed to staying up-to-date with the latest trends and tools to deliver cutting-edge solutions.
 
-🤝 Let's Connect: I'm always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out via email or connect with me on LinkedIn (https://www.linkedin.com/in/dhanraj-gatti-5497a7259/).
+🤝 Let's Connect: I'm always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out via email or connect with me on LinkedIn (https://www.linkedin.com/in/dhanrajgatti/).
 
 Happy coding and deploying to the cloud! ☁️🚀
